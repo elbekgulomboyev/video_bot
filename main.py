@@ -8,7 +8,7 @@ TOKEN="8747184855:AAHafNLc6_1emWz6UcX9EG9BGDW_OERLPYM"
 DOWNLOAD_MANZIL="downloads"
 bot=Bot(token=TOKEN)
 dp=Dispatcher()
-# sfsdfsdfsdgf
+# sfsdfsdfsdgfdjkncjn
 if not os.path.exists(DOWNLOAD_MANZIL):
     os.makedirs(DOWNLOAD_MANZIL)
 
